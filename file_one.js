@@ -1,0 +1,1 @@
+var a = 'in the first commit'
